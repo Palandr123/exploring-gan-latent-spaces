@@ -1,0 +1,24 @@
+# General requirements
+torch
+numpy
+matplotlib
+scikit-learn
+torchvision
+tqdm==4.56.0
+
+# StyleGAN2 requirements
+click
+requests
+pyspng
+ninja
+imageio-ffmpeg==0.4.3
+
+# FastGAN requirements
+scipy==1.6.0
+scikit-image==0.18.2
+ipdb==0.13.4
+pandas==1.2.1
+lmdb==1.0.0
+opencv-python==4.5.1.48
+easing-functions==1.0.4
+
