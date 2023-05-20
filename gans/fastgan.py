@@ -9,7 +9,7 @@ from gans.base import BaseGAN
 
 class FastGAN(BaseGAN):
     """
-    StyleGAN2 wrapper class
+    FastGAN wrapper class
     Attributes:
         device - device on which StyleGAN2 is loaded
         G - generator
